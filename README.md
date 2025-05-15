@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm nisha kumari</h1>
 <h3>👩‍💻 About Me</h3>
 <p>📱 <strong>Android Developer</strong> | 💙 <strong>Flutter Developer</strong> | 💼 <strong>2.5+ Years of Experience</strong> in App Development</p>
-<p>🧠 <strong>900+ DSA Problems Solved</strong> on LeetCode &amp; GeeksforGeeks</p>
-<p>📊 <strong>GATE 2022 AIR 3534</strong> – Solid understanding of Computer Science fundamentals</p>
-<p>🎯 <strong>Passionate Problem Solver</strong> focused on scalable and efficient mobile solutions</p>
+<p>🧠 <strong>900+ DSA Problems Solved</strong> on LeetCode &amp; GeeksforGeeks.</p>
+<p>📊 <strong>GATE 2022 AIR 3534</strong> – Solid understanding of Computer Science fundamentals.</p>
+<p>🎯 <strong>Passionate Problem Solver</strong> focused on scalable and efficient mobile solutions.</p>
 <p>🎓 <strong>B.Tech in Computer Science Engineering (2022)</strong> from Govt. Women Engineering College, Ajmer (<em>Bikaner Technical University</em>)</p>
 
 
