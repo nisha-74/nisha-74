@@ -1,6 +1,12 @@
 ![](https://github.com/nisha-74/nisha-74/blob/main/Android.png)
 <h1 align="center">Hi 👋, I'm nisha kumari</h1>
-<h3 align="center">Passionate Mobile App Developer with 2+ years of experience building high-quality Android apps using Kotlin, Java, and Jetpack Compose, along with cross-platform expertise in Flutter. Currently at Decoding Youth Talent Pvt. Ltd., I create scalable, user-friendly mobile solutions. With a B.Tech in Computer Science and 900+ DSA problems solved on LeetCode and GFG, I bring strong problem-solving skills and a commitment to continuous learning. I actively share my work on GitHub and LinkedIn.</h3>
+<h3>👩‍💻 About Me</h3>
+<p>📱 <strong>Android Developer</strong> | 💙 <strong>Flutter Developer</strong> | 💼 <strong>2.5+ Years of Experience</strong> in App Development</p>
+<p>🧠 <strong>900+ DSA Problems Solved</strong> on LeetCode &amp; GeeksforGeeks</p>
+<p>📊 <strong>GATE 2022 AIR 3534</strong> – Solid understanding of Computer Science fundamentals</p>
+<p>🎯 <strong>Passionate Problem Solver</strong> focused on scalable and efficient mobile solutions</p>
+<p>🎓 <strong>B.Tech in Computer Science Engineering (2022)</strong> from Govt. Women Engineering College, Ajmer (<em>Bikaner Technical University</em>)</p>
+
 
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400" align="right">
 
