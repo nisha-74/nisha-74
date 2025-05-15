@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/nisha-74/nisha-74/refs/heads/main/img1.avif)
+![](https://github.com/nisha-74/nisha-74/blob/main/Android.png)
 <h1 align="center">Hi 👋, I'm nisha kumari</h1>
 <h3 align="center">Passionate Mobile App Developer with 2+ years of experience building high-quality Android apps using Kotlin, Java, and Jetpack Compose, along with cross-platform expertise in Flutter. Currently at Decoding Youth Talent Pvt. Ltd., I create scalable, user-friendly mobile solutions. With a B.Tech in Computer Science and 900+ DSA problems solved on LeetCode and GFG, I bring strong problem-solving skills and a commitment to continuous learning. I actively share my work on GitHub and LinkedIn.</h3>
 
